@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Personnel>
+
+  <Employee type="permanent">
+        <Name>Seagull</Name>
+        <Id>3674</Id>
+        <PayGrade>34</PayGrade>
+   </Employee>
+
+  <Employee type="contract">
+        <Name>Robin</Name>
+        <Id>3675</Id>
+        <PayGrade>25</PayGrade>
+    </Employee>
+
+  <Employee type="permanent">
+        <Name>Crow</Name>
+        <Id>3676</Id>
+        <PayGrade>28</PayGrade>
+    </Employee>
+    
+</Personnel>
